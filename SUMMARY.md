@@ -2,7 +2,7 @@
 
 * [Invitation to OZ Report Training Class](README.md)
 * [Preparation](preparation.md)
-* [OZ Report Designer Overview](what-is-oz-report.md)
+* [OZ Report Designer Overview](overview.md)
 * [Query Design](query-design/README.md)
   * [Designer Environment](query-design/designer-environment.md)
   * [Database Connection](query-design/mysql.md)
