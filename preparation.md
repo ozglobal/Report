@@ -17,6 +17,6 @@ When your three-month free trial expires, you will need to get a new valid licen
 
 We will use MySQL for the sample database and you can create your own sample database on your computer.
 
-Download the sample database from 👉 [here ](https://drive.google.com/file/d/1HErhwbrADsCTqiNLfSS3lHzrK9gOBhPQ/view)and import it into your database.
+Download the sample database and import it into your database.
 
-If you are not able to create your sample database, you can still connect to the sample database on the AWS cloud.
+👉 [Download ](https://drive.google.com/file/d/1HErhwbrADsCTqiNLfSS3lHzrK9gOBhPQ/view)
