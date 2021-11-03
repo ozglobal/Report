@@ -21,7 +21,6 @@ A datastore is a data repository that supports various data sources. It supports
 | XML         | A data source interface to an XML file with DTD/XSD                                                                                                        |
 | SAP         | A data source interface to data from SAP R/3 RFC.                                                                                                          |
 | CLEAR QUEST | A data source interface to the database from IBM Rational Clear Quest program                                                                              |
-| Transaction | Support DML transaction                                                                                                                                    |
 
 ### Dataset
 
