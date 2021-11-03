@@ -4,8 +4,8 @@ In this training, you will learn:\
 \
 D**ataset design**
 
-* Designer environment
 * Database connection
+* Designer environment
 * Dataset design
 * Scripted Query
 
