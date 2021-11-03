@@ -12,7 +12,7 @@
   * [Designer Environment](report-design/untitled.md)
   * [Components](report-design/designer-environment.md)
   * [Table](report-design/report-design.md)
-  * [FixedTable](report-design/fixedtable-1.md)
   * [ODI Parameter](report-design/using-odi-parameter.md)
+  * [FixedTable](report-design/fixedtable-1.md)
   * [CrossTab](report-design/crosstab.md)
   * [Chart](report-design/chart.md)
