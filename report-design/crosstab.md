@@ -8,12 +8,12 @@ description: Design a cross tabulation table
 
 [Example](http://oz.ozeform.io/oz/edu/reportdev/order-crosstab.html)
 
-## order-crosstab.ozr 
+## order-crosstab.ozr&#x20;
 
 1. Create a new ReportTemplate and save it as **`order-crosstab.ozr`**.
-2. **Insert ODI\(D\)** -&gt; **order.odi**
+2. **Insert ODI(D)** -> **order.odi**
 3. Add a Data band
-4. Add a **CrossTab** to the Data band
+4. Add a **CrossTab **to the Data band
 
 ![](../.gitbook/assets/crosstab-wizard.png)
 
@@ -34,4 +34,3 @@ description: Design a cross tabulation table
 #### CrossTab Options
 
 ![](../.gitbook/assets/crosstab-force-newpage.png)
-

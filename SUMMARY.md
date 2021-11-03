@@ -6,6 +6,7 @@
 * [Query Design](query-design/README.md)
   * [Designer Environment](query-design/designer-environment.md)
   * [Database Connection](query-design/mysql.md)
+  * [Database Connection (6.0)](query-design/database-connection-6.0.md)
   * [Dataset Design](query-design/dataset-design.md)
 * [Report Design](report-design/README.md)
   * [Designer Environment](report-design/untitled.md)

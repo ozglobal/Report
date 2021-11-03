@@ -1,4 +1,4 @@
-# Database Connection
+# Database Connection (6.0)
 
 ## Using Dialog
 
@@ -7,11 +7,10 @@
 3. Fill out connection information as below and click **OK**.
 
 * **Name: **order (ODI name)
-* **Vendor**: mysql
-* **Database IP Address**: ozdemodb.cggbfyxtkcxr.sa-east-1.rds.amazonaws.com
-* **Database Port number:** 3306
-* **Database name:** ozdemodb
-* **User name**: designer
+* **Vendor**: user
+* **Driver Class Name**: com.mysql.jdbc.Driver
+* **Connection URL**: jdbc:mysql://127.0.0.1:3306/ozdemodb
+* **User name**: username
 * **Password**: password
 
 ## Using DB Connection Pool
@@ -25,12 +24,11 @@
 ```
 # for MySQL, MariaDB
 # 'demo' will be the Alias name
-demo.vendor=mysql
-#demo.serverAddress=127.0.0.1
-demo.serverAddress=ozdemodb.cggbfyxtkcxr.sa-east-1.rds.amazonaws.com
-demo.portNo=3306
-demo.dbName=ozdemodb
-demo.user=designer
+demo.vendor=USER
+demo.driver=com.mysql.jdbc.Driver
+demo.url=jdbc:mysql://127.0.0.1:3306/ozdemodb
+#demo.url=jdbc:mysql://ozdemodb.cftbbgrqcozs.ap-southeast-1.rds.amazonaws.com:3306/ozdemodb
+demo.user=username
 demo.password=password
 demo.maxconns=20
 demo.initconns=5
