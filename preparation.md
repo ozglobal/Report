@@ -17,6 +17,6 @@ When your three-month free trial expires, you will need to get a new valid licen
 
 We will use MySQL for the sample database and you can create your own sample database on your computer.
 
-Download the sample database and import it into your database.
+Please create a new schema named "ozdemodb" and import the SQL file below.
 
-👉 [Download ](https://drive.google.com/file/d/1HErhwbrADsCTqiNLfSS3lHzrK9gOBhPQ/view)
+👉 [ozdemodb.sql ](https://drive.google.com/file/d/1HErhwbrADsCTqiNLfSS3lHzrK9gOBhPQ/view)
