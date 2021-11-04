@@ -2,7 +2,7 @@
 
 In this training, you will learn:\
 \
-D**ataset design**
+**Dataset design**
 
 * Database connection
 * Designer environment
