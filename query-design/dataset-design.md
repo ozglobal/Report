@@ -30,7 +30,7 @@ Dataset is a set of data fields selected from a data store. The way to define a 
 
 ODI is a file in XML format storing data stores. OZ Report Designer uses ODI to map or bind report forms to data.
 
-### Hierarchy of ODI
+### Structure of ODI
 
 A single ODI file can have multiple data stores and one data store can have multiple datasets.
 
