@@ -38,6 +38,11 @@ Frequently used command icons
 3. Give it a name, select the path, and then save.
 4. You can add multiple working folders and switch between them.
 
+Let's add working folders:
+
+1. For the default working folder
+2. A new working folder
+
 #### Setting temporary working folder
 
 * Repository > Local Explorer > select your folder > Set Working Folder.
