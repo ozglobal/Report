@@ -12,7 +12,7 @@ Create a new ReportTemplate and save it as **`order-detail.ozr`**.
 
 1. Add a Data band named **master**.
 2. Add a FixedTable (4 by 7)
-3. Data row height = 0.7cm, line spacing = 0.2cm
+3. Data row height = 0.3 inch, line spacing = 0.1 inch
 4. Lines for Address and Due date: use **Cell Merge** and **Cell Divide**
 5. Put field titles.
 6. Assign dataset field values from the dataset **order**.
