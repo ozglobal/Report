@@ -4,9 +4,7 @@
 
 [Example](http://oz.ozeform.io/oz/edu/reportdev/order-odiparam.html)
 
-## Create order-odiparam.odi
-
-Copy **`order.odi`** to **`order-odiparam.odi`**.
+## Adding ODI Parameter
 
 #### 1. Add ODI parameter
 
@@ -15,7 +13,7 @@ Copy **`order.odi`** to **`order-odiparam.odi`**.
 3. Select **Add Parameter Field**
 4. Add an ODI parameter "**orderID**" to the member pane.
 
-#### 2. Update Query
+#### 2. Use parameter in Query
 
 1. Add WHERE clause with ODI parameter
 
@@ -31,9 +29,7 @@ ORDER BY address.Country ASC, address.StateProvince ASC, address.City ASC, custo
 
 You can run the query by providing a value for the parameter orderID (for example, 63222).
 
-## Create order-odiparam.ozr
-
-Copy **`order-detail.ozr`** to **`order-odiparam.ozr`**.
+## Using Parameter Toolbar
 
 **1. Put the parameter value**
 
