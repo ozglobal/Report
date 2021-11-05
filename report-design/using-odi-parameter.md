@@ -29,7 +29,7 @@ ORDER BY address.Country ASC, address.StateProvince ASC, address.City ASC, custo
 
 You can run the query by providing a value for the parameter orderID (for example, 63222).
 
-## Using Parameter Toolbar
+## Using Parameter in Report
 
 **1. Put the parameter value**
 
