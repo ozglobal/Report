@@ -13,4 +13,4 @@
 
 #### Service Flow
 
-![](<.gitbook/assets/image (11) (1).png>)
+![](.gitbook/assets/service-flow.png)
