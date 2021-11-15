@@ -11,11 +11,11 @@
 {% code title="db.properties" %}
 ```
 ora.vendor=oracle
-ora.serverAddress=oracle12-1.cftbbgrqcozs.ap-southeast-1.rds.amazonaws.com
+ora.serverAddress=end-point
 ora.portNo=1521
 ora.sid=ORCL
-ora.user=admin
-ora.password=adminpwd
+ora.user=user
+ora.password=password
 ora.maxconns=20
 ora.initconns=5
 ora.timeout=5

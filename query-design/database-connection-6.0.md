@@ -24,10 +24,9 @@
 ```
 demo.vendor=USER
 demo.driver=com.mysql.jdbc.Driver
-#demo.url=jdbc:mysql://127.0.0.1:3306/ozdemodb
-demo.url=jdbc:mysql://ozdemodb.cftbbgrqcozs.ap-southeast-1.rds.amazonaws.com:3306/ozdemodb
-demo.user=admin
-demo.password=adminpwd
+demo.url=jdbc:mysql://127.0.0.1:3306/ozdemodb
+demo.user=user
+demo.password=password
 demo.maxconns=20
 demo.initconns=5
 demo.timeout=5
