@@ -5,7 +5,7 @@
 1. Get [ojdbc6.jar](https://drive.google.com/file/d/1tVKCshDjUjjrRNc0iOD7rCsNuKs0746W/view?usp=sharing)
 2. Put it in C:\Program Files (x86)\Forcs\OZ Report 6.0\OZ Query Designer 6.0\UniversalDriver
 3. Delete classes12.jar and classes12.zip from UniversalDriver.
-4. Open ..\config\launch.cfg, find classes.zip, and change it to ojdbc6.jar.
+4. Open ..\config\launch.cfg, find "classes.zip", and change it to "ojdbc6.jar".
 5. Add database alias definition in the db.properties
 
 {% code title="db.properties" %}
