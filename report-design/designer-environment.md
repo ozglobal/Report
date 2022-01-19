@@ -26,7 +26,6 @@ OZ Report Designer uses a "band-oriented" design approach. A Report Band represe
 
 | Band         | Description                                      |
 | ------------ | ------------------------------------------------ |
-| Band         | Description                                      |
 | Page Header  | prints at the top of every page.                 |
 | Title        | prints at the start of the report                |
 | Data Header  | prints at the start of the associated data band. |
@@ -43,7 +42,6 @@ OZ Report Designer uses a "band-oriented" design approach. A Report Band represe
 
 | Property       | Description                              |
 | -------------- | ---------------------------------------- |
-| Property       | Description                              |
 | Master Name    | Mater band name of the current data band |
 | ODI Name       | ODI Name for the data band               |
 | Dataset Name   | Dataset Name for the data band           |
@@ -56,7 +54,6 @@ OZ Report Designer uses a "band-oriented" design approach. A Report Band represe
 
 | Type     | Description                                                             |
 | -------- | ----------------------------------------------------------------------- |
-| Type     | Description                                                             |
 | Text     | prints text                                                             |
 | Data     | prints the value of a dataset field                                     |
 | Summary  | prints aggregation of values of a field (Sum, Avg, Max, Min, Cnt, None) |
@@ -71,7 +68,6 @@ OZ Report Designer uses a "band-oriented" design approach. A Report Band represe
 
 | Component  | Description                                              |
 | ---------- | -------------------------------------------------------- |
-| Component  | Description                                              |
 | FixedTable | a table of label cells                                   |
 | Table      | prints all result rows from a dataset                    |
 | Crosstab   | generates a pivot table from a dataset                   |
